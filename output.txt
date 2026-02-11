@@ -1,0 +1,14 @@
+Practical 1 6  30  155Practical 1: 6  30  155
+Practical 1: 6  30  155
+Practical 2: search count = 2
+Practical 2: word: hello search count = 1
+Practical 2: word: hello, search count = 1
+Practical 3:
+Student Roll NO: 413
+Student Name: Nilesh
+Student marks: ['98', '99', '97', '95', '92'] and average of marks: 96.2
+Practical 4: max number: 92	min number: 2
+Practical 5: Unique words: file, play, a, football, fun, wanna, for, like, Do, really, Python, demo, Programming, am, python, programming, This, in, Hello, line, I, is, you
+Practical 6:result: {'hello': 1, 'i': 2, 'am': 1, 'a': 1, 'file': 2, 'this': 2, 'is': 3, 'for': 2, 'demo': 1, 'do': 1, 'you': 1, 'like': 1, 'programming': 2, 'in': 2, 'python': 2, 'really': 1, 'fun': 1, 'line': 1, 'wanna': 1, 'play': 1, 'football': 1}
+Practical 7:
+ [('413', 'Nilesh', '98 99 97 95 92', 'A'), ('412', 'Yash', '12 50 63 40 10', 'F', 'a', 'i', 'l'), ('418', 'Bhavik', '80 40 50 87 08', 'C'), ('419', 'Devanshu', '98 74 85 85 78', 'A')]
